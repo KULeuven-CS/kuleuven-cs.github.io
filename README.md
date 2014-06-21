@@ -1,4 +1,4 @@
-(KULeuven-CS)[https://github.com/KULeuven-CS] is bedoeld om studenten informatica en computerwetenschappen te helpen bij hun opleiding. Hieronder een lijst met vakken waarvoor **samenvattingen** of opgeloste **examenvragen** terug te vinden zijn. 
+[KULeuven-CS](https://github.com/KULeuven-CS) is bedoeld om studenten informatica en computerwetenschappen te helpen bij hun opleiding. Hieronder een lijst met vakken waarvoor **samenvattingen** of opgeloste **examenvragen** terug te vinden zijn. 
 
 ## Repositories
 

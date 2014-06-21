@@ -40,5 +40,5 @@ Een verzameling opgelost examenvragen van het vak *Numerieke Wiskunde* (B-KUL-G0
   - [Repository](https://github.com/KULeuven-CS/NumeriekeWiskunde)
   - [Syllabus](http://onderwijsaanbod.kuleuven.be/syllabi/n/G0N90BN.htm)
 
-## Opmerkingen Verbetering en Toevoegingen
+## Opmerkingen, Verbetering en Toevoegingen
 Indien je een fout hebt opgemerkt aarzel dan niet om een issue te openen of een [pull request](https://help.github.com/articles/using-pull-requests) te sturen. Je zal bovendien aan de groep worden toegevoegd zodat je rechtstreeks schrijftoegang krijgt tot de repositories. 

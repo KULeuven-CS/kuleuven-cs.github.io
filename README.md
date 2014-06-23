@@ -5,8 +5,8 @@
 ### Gegevensbanken 
 Samenvatting van de cursus bij het vak *Gegevensbanken* (B-KUL-H01O9A).
 
-  - [Repository](https://github.com/KULeuven-CS/Databases)
-  - [Repository2](https://github.com/NorfairKing/Gegevensbanken-Tutorials)
+  - [Repository (1)](https://github.com/KULeuven-CS/Databases)
+  - [Repository (2)](https://github.com/NorfairKing/Gegevensbanken-Tutorials)
   - [Syllabus](http://onderwijsaanbod.kuleuven.be/syllabi/n/H01O9AN.htm)
 
 ### Geschiedenis van de Informatica

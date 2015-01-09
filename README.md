@@ -40,6 +40,12 @@ Samenvatting van de cursus van Monique Snoeck van het vak *Ontwikkeling van Bedr
   - [Repository](https://github.com/KULeuven-CS/OBT)
   - [Syllabus](http://onderwijsaanbod.kuleuven.be/syllabi/n/D0I60AN.htm)
 
+### Privacy Technologies
+Een Index door studenten voor de slides van het vak *Privacy Technologies* (B-KUL-H09L2A)
+
+  - [Repository](https://github.com/KULeuven-CS/Privacy-Technologies)
+  - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm)
+
 ### Software for Real-time and Embedded Systems
 Samenvatting van het cursusmateriaal van het vak *Software for Real-time and Embedded Systems* (B-KUL-H04L2A).
 

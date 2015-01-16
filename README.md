@@ -40,6 +40,12 @@ Samenvatting van de cursus van Monique Snoeck van het vak *Ontwikkeling van Bedr
   - [Repository](https://github.com/KULeuven-CS/OBT)
   - [Syllabus](http://onderwijsaanbod.kuleuven.be/syllabi/n/D0I60AN.htm)
 
+### Parallel Computing
+Opgeloste examenvragen voor het vak Parallel Computing. 
+
+  - [Repository](https://github.com/KULeuven-CS/Parallel-Computing/)
+  - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H03F9AE.htm)
+
 ### Privacy Technologies
 Een Index door studenten voor de slides van het vak *Privacy Technologies* (B-KUL-H09L2A)
 

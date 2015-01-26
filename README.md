@@ -70,5 +70,11 @@ Volledig uitgewerkte oefeningen voor het vak *Wiskunde II* (B-KUL-G0O17D).
   - [Repository](https://github.com/NorfairKing/Wiskunde-II-Oplossingen-van-Oefeningen)
   - [Syllabus](http://onderwijsaanbod.kuleuven.be/syllabi/n/G0O17DN.htm)
 
+### Wijsbegeerte
+Samenvatting van de cursus van het vak *Wijsbegeerte* (B-KUL-G0Q80A).
+
+  - [Repository](https://github.com/warreee/wijsbegeerte)
+  - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q80AN.htm#activetab=doelstellingen_idp883184)
+
 ## Opmerkingen, Verbetering en Toevoegingen
 Indien je een fout hebt opgemerkt aarzel dan niet om een issue te openen of een [pull request](https://help.github.com/articles/using-pull-requests) te sturen. Je zal bovendien aan de groep worden toegevoegd zodat je rechtstreeks schrijftoegang krijgt tot de repositories. 

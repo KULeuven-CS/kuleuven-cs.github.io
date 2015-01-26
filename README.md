@@ -2,12 +2,25 @@
 
 ## Repositories
 
+### Comparative Programming Languages
+Opgeloste oefeningen en examenvragen voor het vak *Comparative Programming Languages* (B-KUL-H0S01A).
+
+  - [Repository](https://github.com/KULeuven-CS/CPL)
+  - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H0S01AE.htm)
+
 ### Gegevensbanken 
 Samenvatting van de cursus bij het vak *Gegevensbanken* (B-KUL-H01O9A).
 
   - [Repository (1)](https://github.com/KULeuven-CS/Databases)
   - [Repository (2)](https://github.com/NorfairKing/Gegevensbanken-Tutorials)
   - [Syllabus](http://onderwijsaanbod.kuleuven.be/syllabi/n/H01O9AN.htm)
+
+### Genetic Algorithms
+Samenvatting van de papers voor het vak *Genetic Algorithms* (B-KUL-H02D1A).
+
+  - [Repository](https://github.com/KULeuven-CS/Genetic-Algorithms)
+  - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02D1AE.htm)
+
 
 ### Geschiedenis van de Informatica
 Opgeloste examenvragen voor het vak *Geschiedenis van de Informatica* (B-KUL-G0K34A). 

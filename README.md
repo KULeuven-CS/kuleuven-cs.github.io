@@ -8,6 +8,12 @@ Opgeloste oefeningen en examenvragen voor het vak *Comparative Programming Langu
   - [Repository](https://github.com/KULeuven-CS/CPL)
   - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H0S01AE.htm)
 
+### Fundamentals of Artificial Intelligence
+Samenvatting van het vak *Fundamentals of Artificial Intelligence* (B-KUL-H02A0A)
+
+  - [Repository](https://github.com/JO0st/samenvatting_AI)
+  - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A0AE.htm)
+
 ### Gegevensbanken 
 Samenvatting van de cursus bij het vak *Gegevensbanken* (B-KUL-H01O9A).
 

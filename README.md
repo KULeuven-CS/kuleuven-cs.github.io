@@ -9,9 +9,10 @@ A0 poster voor *Automaten en Berekenbaarheid* (B-KUL-G0P84A).
   - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0P84AN.htm)
 
 ### Artificiële Intelligentie
-"Cursustekst" voor *Artificiële Intelligentie* (B-KUL-H06U1A).
+"Cursustekst" en samenvatting voor *Artificiële Intelligentie* (B-KUL-H06U1A).
 
   - [Cursustekst](https://github.com/KommuSoft/publications/tree/master/cursus_Artificiele_Intelligentie)
+  - [Repository](https://github.com/JO0st/samenvatting_AI)
   - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/n/H06U1AN.htm)
 
 ### Comparative Programming Languages
@@ -24,7 +25,6 @@ Opgeloste oefeningen en examenvragen voor het vak *Comparative Programming Langu
 ### Fundamentals of Artificial Intelligence
 Samenvatting van het vak *Fundamentals of Artificial Intelligence* (B-KUL-H02A0A)
 
-  - [Repository](https://github.com/JO0st/samenvatting_AI)
   - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A0AE.htm)
 
 ### Gegevensbanken 

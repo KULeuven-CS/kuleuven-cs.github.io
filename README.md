@@ -27,6 +27,12 @@ Samenvatting van het vak *Fundamentals of Artificial Intelligence* (B-KUL-H02A0A
 
   - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A0AE.htm)
 
+### Gedistribueerde Software Architecturen - Verdiepende Studie 
+Samenvatting van de cursus bij het vak *Gedistribueerde Software Architecturen - Verdiepende Studie* (B-KUL-G0K31A).
+
+  - [Repository](https://github.com/KULeuven-CS/Game-Theory)
+  - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0K31AN.htm)
+
 ### Gegevensbanken 
 Samenvatting van de cursus bij het vak *Gegevensbanken* (B-KUL-H01O9A).
 
@@ -83,6 +89,12 @@ Een Index door studenten voor de slides van het vak *Privacy Technologies* (B-KU
 
   - [Repository](https://github.com/KULeuven-CS/Privacy-Technologies)
   - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm)
+
+### Plichtenleer van de Ingenieur
+Opgeloste voorbeeldvragen voor het vak *Plichtenleer van de Ingenieur* (B-KUL-H04E0A)
+
+  - [Repository](https://github.com/KULeuven-CS/Plichtenleer-Ingenieur)
+  - [Syllabus](https://onderwijsaanbod.kuleuven.be/syllabi/n/H04E0AN.htm)
 
 ### Psychologie m.i.v. psychologie van de Waarneming
 Woordenlijst van de cursus *Psychologie m.i.v. psychologie van de waarneming* (B-KUL-P00H0A)
